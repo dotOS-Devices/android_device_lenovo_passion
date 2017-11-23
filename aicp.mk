@@ -15,8 +15,8 @@
 # Inherit device configuration
 $(call inherit-product, device/lenovo/passion/full_passion.mk)
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common aicp stuff.
+$(call inherit-product, vendor/aicp/configs/common.mk)
 
 # Boot animation
 TARGET_SCREEN_WIDTH := 1080
