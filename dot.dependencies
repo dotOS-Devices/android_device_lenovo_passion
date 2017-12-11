@@ -7,10 +7,12 @@
     "repository": "android_kernel_lenovo_passion",
     "target_path": "kernel/lenovo/passion"
   },
-  {"repository": "android_device_qcom_sepolicy",
+  {
+   "repository": "android_device_qcom_sepolicy",
    "target_path": "device/qcom/sepolicy"
    },
-   {"repository": "android_vendor_lenovo_passion",
+   {
+    "repository": "android_vendor_lenovo_passion",
     "target_path": "vendor/lenovo/passion"
     }
 ]
