@@ -28,3 +28,6 @@ PRODUCT_NAME := dot_passion
 PRODUCT_BRAND := Lenovo
 PRODUCT_MANUFACTURER := Lenovo
 PRODUCT_RELEASE_NAME := passion
+DOT_OFFICIAL := true
+
+ROOT_METHOD := magisk
