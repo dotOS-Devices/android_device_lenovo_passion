@@ -7,4 +7,8 @@
     "repository": "android_kernel_lenovo_passion",
     "target_path": "kernel/lenovo/passion"
   }
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  }
  ]
