@@ -21,7 +21,7 @@ $(call inherit-product, vendor/dot/config/common_full_phone.mk)
 # Boot animation
 TARGET_SCREEN_WIDTH := 1008
 TARGET_SCREEN_HEIGHT := 1902
- 
+
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := passion
 PRODUCT_NAME := dot_passion
